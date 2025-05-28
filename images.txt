@@ -6,4 +6,4 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 greatsql/greatsql
 redis
-infiniflow/ragflow
+ragflow
