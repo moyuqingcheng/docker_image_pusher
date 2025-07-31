@@ -7,3 +7,4 @@
 greatsql/greatsql
 redis
 infiniflow/ragflow:v0.19.0
+mineru-sglang:latest
