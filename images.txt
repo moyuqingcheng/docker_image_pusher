@@ -7,4 +7,4 @@
 greatsql/greatsql
 redis
 infiniflow/ragflow:v0.19.0
-ci-images:active
+ci-images
