@@ -9,3 +9,4 @@ redis
 infiniflow/ragflow:v0.19.0
 ghcr.io/huggingface/text-embeddings-inference:1.7
 quincyqiang/mineru:0.3-models
+semitechnologies/weaviate:latest
